@@ -6,3 +6,6 @@ upgrade:
 
 upload:
   bun quartz/bootstrap-cli.mjs sync --no-pull
+
+h:
+  bun quartz/bootstrap-cli.mjs --help
