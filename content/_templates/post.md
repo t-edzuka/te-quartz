@@ -1,5 +1,5 @@
 ---
 title: Example
-draft: "true"
+draft: "false"
 tags:
 ---
