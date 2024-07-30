@@ -5,6 +5,8 @@ tags:
   - editor
   - helix
   - tool
+  - software
+  - tech
 ---
 
 ## マルチカーソル

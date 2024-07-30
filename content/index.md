@@ -1,9 +1,7 @@
 ---
-title: Welcome to Quartz
-draft: "false"
+title: ようこそ小生らぼへ
+draft: false
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-[[notes]]
+ - [なによここ](about)
+- [メモ](memo): ちょっとしたメモ置き場。
+- 
