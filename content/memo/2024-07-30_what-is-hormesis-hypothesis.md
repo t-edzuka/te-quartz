@@ -1,11 +1,11 @@
 ---
 title: ホルミシス仮説について
-draft: "false"
+draft: false
 tags:
   - hormesis
   - bio
-  - what-is
   - ChatGPT
+  - science
 ---
 
 > 「**私を殺さないものは、私をいっそう強くする**」 ニーチェ
