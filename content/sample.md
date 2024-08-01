@@ -1,6 +1,6 @@
 ---
 title: Example
-draft: true
+draft: false
 tags: 
 date: 2024-07-31
 ---
