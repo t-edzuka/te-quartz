@@ -74,4 +74,5 @@ Cyclic Sighingにおける呼吸の時間配分は以下の通りです：
 
 
 ---
-ちなみにこの
+ちなみにこのやり方の例として
+[# Cyclic Breathing For Beginners: Guided Breathwork by Andrew Huberman](https://youtu.be/P2rg7c0EQoE?si=9O2nJtCcXpaYbe6z)
