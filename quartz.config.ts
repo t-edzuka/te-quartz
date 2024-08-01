@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg";
-import * as Plugin from "./quartz/plugins";
+import { QuartzConfig } from "./quartz/cfg"
+import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4.0 Configuration
@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "ja-JP",
+    baseUrl: "blog.shoseilab.com",
+    ignorePatterns: ["private", "templates", ".obsidian", "drafts"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -88,6 +88,6 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
     ],
   },
-};
+}
 
-export default config;
+export default config
