@@ -1,6 +1,6 @@
 ---
 title: Helix Editorのよく使うコマンド
-draft: "false"
+draft: false
 tags:
   - editor
   - helix
