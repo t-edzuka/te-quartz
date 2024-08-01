@@ -1,3 +1,17 @@
+---
+title: Sanのトランスダンス
+date: 2024-08-01
+draft: false
+tags:
+  - science
+  - flow
+  - フロー
+  - Essay
+description:
+---
+
+
+
 - [10.1080/2153599X.2022.2118360](https://doi.org/10.1080/2153599X.2022.2118360)
 
 

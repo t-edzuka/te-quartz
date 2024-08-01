@@ -6,6 +6,7 @@ tags:
   - evolution
   - science
   - software
+date: 2024-07-31
 ---
 
 ## **ティンバーゲンの4つのなぜ**（Tinbergen's Four Whys）
