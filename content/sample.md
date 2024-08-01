@@ -1,10 +1,10 @@
 ---
 title: Example
-draft: true
+draft: false
 tags: 
 date: 2024-08-01
 ---
 ---
 
 
-
+aaaa
