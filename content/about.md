@@ -1,5 +1,5 @@
 ---
-title: なによここ
+title: なによのサイト
 draft: "false"
 tags:
   - 小生
