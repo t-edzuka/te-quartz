@@ -1,9 +1,10 @@
 ---
 title: Example
-draft: false
+draft: true
 tags: 
-date: 2024-07-31
+date: 2024-08-01
 ---
 ---
+
 
 
