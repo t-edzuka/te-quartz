@@ -1,6 +1,6 @@
 ---
 title: なによのサイト
-draft: "false"
+draft: 
 tags:
   - 小生
   - エッセイ
