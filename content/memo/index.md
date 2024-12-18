@@ -1,11 +1,10 @@
 ---
-title: Example
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
+title: Notes
+date: 2024-12-18
 draft: false
 tags: 
 description:
 ---
-
 
 これは
 
