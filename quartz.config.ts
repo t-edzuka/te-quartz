@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "blog.shoseilab.com",
     ignorePatterns: ["private", "templates", ".obsidian", "drafts"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
