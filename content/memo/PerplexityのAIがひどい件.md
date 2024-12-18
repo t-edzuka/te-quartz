@@ -1,6 +1,6 @@
 ---
 title: PerplexityのAIがひどい件
-draft: 
+draft: true
 tags:
   - 呼吸法
   - perplexity

@@ -1,6 +1,6 @@
 ---
 title: ティンバーゲンの4つのなぜってなによ
-draft: 
+draft: false
 tags:
   - bio
   - evolution
